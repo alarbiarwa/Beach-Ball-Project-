@@ -1,0 +1,49 @@
+﻿  Game.cpp
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(16,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(17,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(35,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(104,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(128,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(128,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(156,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(156,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(158,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(158,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(160,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(160,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(162,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(162,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(184,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(205,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(207,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(209,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(211,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(225,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(233,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(234,117): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(234,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(245,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(254,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(270,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(276,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(277,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(309,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(310,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(311,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(315,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(320,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(321,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(335,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(337,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(350,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(355,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(360,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(389,15): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(390,15): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(391,32): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(392,15): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(393,16): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(394,16): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(407,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Game.cpp(422,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Ball-Game.vcxproj -> C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Debug\Ball-Game.exe
