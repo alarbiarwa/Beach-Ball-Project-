@@ -1,0 +1,7 @@
+D:\Github\OpenGL\Ball-Game\Debug\Ball-Game.exe
+D:\Github\OpenGL\Ball-Game\Debug\Ball-Game.pdb
+C:\Users\pc\Downloads\Ball-Game\Ball-Game\Debug\Ball-Game.exe
+C:\Users\توتا\Downloads\Ball__Game\Ball-Game\Debug\Ball-Game.exe
+C:\Users\توتا\Downloads\Ball__Game\Ball-Game\Debug\Ball-Game.pdb
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Debug\Ball-Game.exe
+C:\Users\توتا\Downloads\projict\Ball__Game\Ball-Game\Debug\Ball-Game.pdb
